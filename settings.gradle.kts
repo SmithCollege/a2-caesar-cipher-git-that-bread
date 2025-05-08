@@ -8,5 +8,5 @@
  */
 
 
-rootProject.name = "A1-distro"
+rootProject.name = "A2-CAESAR-CIPHER-GIT-THAT-BREAD"
 include("app")
