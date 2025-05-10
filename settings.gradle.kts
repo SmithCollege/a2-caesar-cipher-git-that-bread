@@ -8,5 +8,5 @@
  */
 
 
-rootProject.name = "A2-CAESAR-CIPHER-GIT-THAT-BREAD"
+rootProject.name = "a2-caesar-cipher-git-that-bread"
 include("app")
